@@ -22,7 +22,7 @@ class Framework extends Technology {
     }
 }
 
-let javascript = new Technology('JavaScript', 'frontend');
+let javascript = new Technology('HTML', 'frontend');
 
 let angular = new Framework('JavaScript', 'frontend', 'Angular');
 
