@@ -57,6 +57,8 @@ TechStack is a website for developers to learn about the newest technologies and
     - Create
         - Username, password and email
     - Delete
+    - Quiz results
+    - Certifications
 - Login
     - Username
     - Password
