@@ -4,7 +4,7 @@ TechStack is a website for developers to learn about the newest technologies and
 
 ## Use cases
 
-**1. User**
+**User**
 
     a. The user finds two lists on the front page with technologies and frameworks
     
@@ -16,7 +16,7 @@ TechStack is a website for developers to learn about the newest technologies and
     
     e. The user takes a certification program for a technology or framework
     
-**2. Admin**
+**Admin**
 
     a. The admin logs in to the administrator page
     
