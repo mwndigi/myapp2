@@ -49,10 +49,11 @@ TechStack is a website for developers to learn about the newest technologies and
     - Text
     - Illustrations
     - Video
-- Quiz
-    - 10 questions
+- Quizzes
+    - Questions
     - Scoreboard
-    - Certificates
+- Certificates
+    - To be determined
 - User
     - Create
         - Username, password and email
