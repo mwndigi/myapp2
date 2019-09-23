@@ -10,11 +10,15 @@ TechStack is a website for developers to learn about the newest technologies and
     
     b. The user clicks a technology to learn more about its functionality and benefits
     
-    c. The user opens a learning guide for a step-by-step introduction to the technology
+    c. The user creates a profile to access learning guides, quizzes and certifications
     
-    d. The user starts a quiz to test his or her new knowledge on the technology
+    d. The user logs in to the website
     
-    e. The user takes a certification program for a technology or framework
+    e. The user opens a learning guide for a step-by-step introduction to the technology
+    
+    f. The user starts a quiz to test his or her new knowledge on the technology
+    
+    g. The user takes a certification program for a technology or framework
     
 **Admin**
 
