@@ -34,9 +34,17 @@ TechStack is a website for developers to learn about the newest technologies and
     - Welcome text
     - Overview of technologies
     - Overview of frameworks
+- Technologies
+    - Name
+    - Type
+- Frameworks
+    - Name
+    - Type
+    - Library
 - Learning guides
-    - Technologies
-    - Frameworks
+    - Text
+    - Illustrations
+    - Video
 - Quiz
     - 10 questions
     - Scoreboard
